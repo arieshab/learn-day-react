@@ -90,9 +90,9 @@ You can also try adding the following 4 Hello World snippets into to see how the
 
 `<div>Hello World</div>`
 
-`<div>`
-`  Hello World`
-`</div>`
+`<div>`\n
+`  Hello World`\n
+`</div>`\n
 
 `<div>`
 `  Hello`
@@ -100,7 +100,7 @@ You can also try adding the following 4 Hello World snippets into to see how the
 `</div>`
 
 `<div>`
-` `
+` \n`
 `  Hello World`
 `</div>`
 
