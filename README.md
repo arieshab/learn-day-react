@@ -65,21 +65,21 @@ Now type in iTerm:
 This will open up a source code editor called 'code' in the current directory (period indicates current directory!)
 In this editor you will see that the a couple folders and a bunch files were generated for you:
 
-my-app/
-  README.md
-  node_modules/
-  package.json
-  .gitignore
-  public/
-    favicon.ico
-    index.html
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
+my-app/<br>
+  README.md<br>
+  node_modules/<br>
+  package.json<br>
+  .gitignore<br>
+  public/<br>
+    favicon.ico<br>
+    index.html<br>
+  src/<br>
+    App.css<br>
+    App.js<br>
+    App.test.js<br>
+    index.css<br>
+    index.js<br>
+    logo.svg<br>
 
 Some files worth noting:
 `README.md` is generated as a user guide to this application that was created for you.
@@ -107,17 +107,17 @@ You can also try adding the following 4 Hello World snippets into to see how the
 `<div>Hello World</div>`
 
 `<div>`<br>
-  Hello World<br>
+`  Hello World`<br>
 `</div>`
 
 `<div>`<br>
-  Hello<br>
-  World<br>
+  `Hello`<br>
+  `World`<br>
 `</div>`<br>
 
 `<div>`<br>
 <br>
-  Hello World<br>
+  `Hello World`<br>
 `</div>`
 
 Did you notice that in the webpage they all appear the same, even though they look different?
