@@ -13,10 +13,10 @@
                                                         
 </pre>
 
-# Welcome to the very first geexx+ lunch and learn! 
+# Welcome to the very first geexx+ Learn Day! 
 
 ## About
-Today you are going to learn how to set up your own customizable website using `react.js` and `github`.
+Today you are going to learn how to set up your own customizable website using `github` and `react.js`.
 The skills, tools, and resources you learn today will help you continue to maintain your website well after our journey is done!
 
 ### Github
@@ -27,11 +27,50 @@ According to https://guides.github.com/activities/hello-world/:
 ### React.js
 `React is a declarative, efficient, and flexible JavaScript library for building user interfaces`
 
-In other words, react makes your website look really pretty and respond very efficiently! React was created by Facebook and has a ton of great tutorials online if you want to get into the nitty-gritty
+In other words, react makes your website look really pretty and respond very efficiently! React was created by Facebook and has a ton of great tutorials online if you want to get into the nitty-gritty.
 
 https://facebook.github.io/react/
 
+### create-react-app
+create-react-app is a module that creates React apps with no build configuration.  It's super simple!
 
+## Getting Started
+
+# Installation
+
+Open iTerm on your workstation and run:
+
+`npm install -g create-react-app`
+
+# Creating an App
+
+To create a new app, use iTerm on your workstation to run:
+(You can choose to name your app my-app like below or substitute any name you like!)
+
+`create-react-app my-app`
+`cd my-app`
+
+# Start and view your new webpage
+
+In iTerm, again, type:
+
+`npm start`
+
+This will run the app in Chrome at: http://localhost:3000  If you don't npm start your app, you won't be able to view it at this url.
+
+# View the code 
+
+Type in iTerm the following:
+
+`code .`
+
+This will open up an application called 'code' in the current directory (period indicates current directory!)
+
+
+
+
+We followed this tutorial if you want to find more information on create-react-app
+https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 
 
 
