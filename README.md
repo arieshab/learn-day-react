@@ -19,30 +19,28 @@
 Today you are going to learn how to set up your own customizable website using `github` and `react.js`.
 The skills, tools, and resources you learn today will help you continue to maintain your website well after our journey is done!
 
-### Github
+## Github
 According to https://guides.github.com/activities/hello-world/:
 
 `GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.`
 
-### React.js
+## React.js
 `React is a declarative, efficient, and flexible JavaScript library for building user interfaces`
 
 In other words, react makes your website look really pretty and respond very efficiently! React was created by Facebook and has a ton of great tutorials online if you want to get into the nitty-gritty.
 
 https://facebook.github.io/react/
 
-### create-react-app
+## create-react-app
 create-react-app is a module that creates React apps with no build configuration.  It's super simple!
 
-## Getting Started
-
-# Installation
+### Installation
 
 Open iTerm on your workstation and run:
 
 `npm install -g create-react-app`
 
-# Creating an App
+### Creating an App
 
 To create a new app, use iTerm on your workstation to run:
 (You can choose to name your app my-app like below or substitute any name you like!)
@@ -50,7 +48,7 @@ To create a new app, use iTerm on your workstation to run:
 `create-react-app my-app`
 `cd my-app`
 
-# Start and view your new webpage
+### Start and view your new webpage
 
 In iTerm, again, type:
 
@@ -58,7 +56,7 @@ In iTerm, again, type:
 
 This will run the app in Chrome at: http://localhost:3000  If you don't npm start your app, you won't be able to view it at this url.
 
-# View the code 
+### View the code 
 
 Type in iTerm the following:
 
