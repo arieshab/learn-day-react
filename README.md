@@ -65,21 +65,21 @@ Now type in iTerm:
 This will open up a source code editor called 'code' in the current directory (period indicates current directory!)
 In this editor you will see that the following files were generated for you:
 
-`my-app/
-  README.md
-  node_modules/
-  package.json
-  .gitignore
-  public/
-    favicon.ico
-    index.html
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg`
+`my-app/`
+`  README.md`
+`  node_modules/`
+`  package.json`
+`  .gitignore`
+`  public/`
+`    favicon.ico`
+`    index.html`
+`  src/`
+`    App.css`
+`    App.js`
+`    App.test.js`
+`    index.css`
+`    index.js`
+`    logo.svg`
 
 Some files worth noting:
 `App.js` is a sample React component called “App” that we get for free when creating a new app.  It is mostly html surrounded with some javascript to display the webpage.
@@ -104,19 +104,19 @@ You can also try adding the following 4 Hello World snippets into to see how the
 
 `<div>Hello World</div>`
 
-`<div>
-  Hello World
-</div>`
+`<div>`
+`  Hello World`
+`</div>`
 
-`<div>
-  Hello
-  World
-</div>`
+`<div>`
+`  Hello`
+`  World`
+`</div>`
 
-`<div>
-
-  Hello World
-</div>`
+`<div>`
+``
+`  Hello World`
+`</div>`
 
 Did you notice that in the webpage they all appear the same, even though they look different?
 
