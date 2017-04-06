@@ -106,18 +106,18 @@ You can also try adding the following 4 Hello World snippets into to see how the
 
 `<div>Hello World</div>`
 
-`<div>`
-  Hello World
+`<div>`<br>
+  Hello World<br>
 `</div>`
 
-`<div>`
-  Hello
-  World
-`</div>`
+`<div>`<br>
+  Hello<br>
+  World<br>
+`</div>`<br>
 
-`<div>`
-
-  Hello World
+`<div>`<br>
+<br>
+  Hello World<br>
 `</div>`
 
 Did you notice that in the webpage they all appear the same, even though they look different?
