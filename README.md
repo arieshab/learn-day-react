@@ -107,8 +107,8 @@ Or embed them within other tags, but they must still have matching end tags like
 `<p> some words here`<br>
 &nbsp;&nbsp;`<code>`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;`this font looks computer-y`<br>
-&nbsp;&nbsp;### `</code>`<br>
-### `</p>`
+&nbsp;&nbsp;`</code>`<br>
+`</p>`
 
 You can also try adding the following 4 Hello World snippets within the  into to see how they all display on the page:<br>
 
