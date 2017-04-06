@@ -104,21 +104,21 @@ When it changes in the browser, you'll notice that the text within the `<code>` 
 
 You can also try adding the following 4 Hello World snippets into to see how they all display on the page:
 
-<div>Hello World</div>
+`<div>Hello World</div>`
 
-<div>
+`<div>`
   Hello World
-</div>
+`</div>`
 
-<div>
+`<div>`
   Hello
   World
-</div>
+`</div>`
 
-<div>
+`<div>`
 
   Hello World
-</div>
+`</div>`
 
 Did you notice that in the webpage they all appear the same, even though they look different?
 
