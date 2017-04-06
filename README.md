@@ -65,6 +65,22 @@ Now type in iTerm:
 This will open up a source code editor called 'code' in the current directory (period indicates current directory!)
 In this editor you will see that the a couple folders and a bunch files were generated for you:
 
+my-app/
+  README.md
+  node_modules/
+  package.json
+  .gitignore
+  public/
+    favicon.ico
+    index.html
+  src/
+    App.css
+    App.js
+    App.test.js
+    index.css
+    index.js
+    logo.svg
+
 Some files worth noting:
 `README.md` is generated as a user guide to this application that was created for you.
 Drill into the source folder and you'll see:
@@ -88,21 +104,21 @@ When it changes in the browser, you'll notice that the text within the `<code>` 
 
 You can also try adding the following 4 Hello World snippets into to see how they all display on the page:
 
-`<div>Hello World</div>`
+<div>Hello World</div>
 
-`<div>`\n
-`  Hello World`\n
-`</div>`\n
+<div>
+  Hello World
+</div>
 
-`<div>`
-`  Hello`
-`  World`
-`</div>`
+<div>
+  Hello
+  World
+</div>
 
-`<div>`
-` \n`
-`  Hello World`
-`</div>`
+<div>
+
+  Hello World
+</div>
 
 Did you notice that in the webpage they all appear the same, even though they look different?
 
