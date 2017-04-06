@@ -40,7 +40,7 @@ Open iTerm on your workstation and run:
 
 `npm install -g create-react-app`
 
-### Creating an App
+### Creating an app
 
 To create a new app, use iTerm on your workstation to run the commands below:
 (You can choose to name your app my-app like below or substitute any name you like!)
@@ -48,7 +48,7 @@ To create a new app, use iTerm on your workstation to run the commands below:
 `create-react-app my-app`
 `cd my-app`
 
-### Start and View Your Shiny New App
+### Start and view your shiny new app
 
 Then type in iTerm the following:
 
