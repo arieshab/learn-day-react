@@ -100,12 +100,15 @@ to something more to your liking.  Maybe `My app is great!  I can write <code>ht
 
 As you make edits to the code, the page at http://localhost:3000 will reload with your changes. You will also see any errors and warnings in the console. When you get your page to show new text without erroring, remember to add, commit and push your code to your github repository again!
 
-When it changes in the browser, you'll notice that the text within the `<code>` tags shows in a different font style. This is one of the many tags you can use. `<h1>` `<img>` `<a>` `<p>` and `<div>` tags are others you can use for headers, images, links, text paragraphs and text sections and more. Just be sure to always add a matching tag with a `/`, like: <br>
+When it changes in the browser, you'll notice that the text within the `<code>` tags shows in a different font style. This is one of the many tags you can use. `<h1>` `<img>` `<a>` `<p>` and `<div>` tags are others you can use for headers, images, links, text paragraphs and text sections and more.<br> 
+Always be sure to always add a matching tag with a `/`, like: <br>
 `<p> some words here </p>`<br>
 Or embed them within other tags, but they must still have matching end tags like: <br>
 `<p> some words here`<br>
-&nbsp;&nbsp;`<code>this font looks computer-y</code>`<br>
-`</p>`
+&nbsp;&nbsp;`<code>`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`this font looks computer-y`<br>
+&nbsp;&nbsp;### `</code>`<br>
+### `</p>`
 
 You can also try adding the following 4 Hello World snippets within the  into to see how they all display on the page:<br>
 
