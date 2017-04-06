@@ -66,10 +66,10 @@ Type in iTerm the following:
 
 This will open up an application called 'code' in the current directory (period indicates current directory!)
 
+As you make edits to the code, the page at http://localhost:3000 will reload with your changes.  You will also see errors and warnings in the console.
 
 
-
-We followed this tutorial if you want to find more information on create-react-app
+We followed the tutorial linked below if you want to find more information on create-react-app:
 https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 
 
