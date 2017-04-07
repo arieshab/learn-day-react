@@ -167,5 +167,11 @@ Are you ready to start cutomizing your website? Talk with your pair to think abo
 Since the operating system will make a difference, I suggest you look up these tools at home to install on your own machines
 
 1. [Homebrew](https://brew.sh/)
-      Follow the installation instructions
--npm 
+
+Follow the installation instructions. It's important that you install homebrew first! A lot of other libraries depend on it.
+      
+2. [node/npm](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x)
+
+`brew install node`
+
+Node comes with npm. Npm is a package manager that allows you to incorporate other javascript libraries into your code. It's kind of a big deal
