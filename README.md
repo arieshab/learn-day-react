@@ -27,9 +27,11 @@ According to [Github](https://guides.github.com/activities/hello-world/):
 ## React.js
 > React is a declarative, efficient, and flexible JavaScript library for building user interfaces. 
 
+
 In other words, react makes your website look really pretty and respond very efficiently! React was created by Facebook and has a ton of great tutorials online if you want to get into the nitty-gritty.
 
-[React](https://facebook.github.io/react/)
+
+[React resources for more information](https://facebook.github.io/react/)
 
 ## create-react-app
 create-react-app is a module that creates single-page React applications with no build configuration.  It's super simple!
@@ -66,7 +68,7 @@ Now type in iTerm:
 
 `code .`
 
-This will open up a source code editor called 'code' in the current directory (period indicates current directory!)
+This will open up a source code editor called 'code' in the current directory (the period indicates current directory!)
 In this editor you will see that the a couple folders and a bunch files were generated for you:
 
 my-app/<br>
@@ -85,14 +87,15 @@ my-app/<br>
     index.js<br>
     logo.svg<br>
 
-Some files worth noting:<br>
-`README.md` is generated as a guide to this application that was created for you. You can edit it to explain your application to those who want to use it!
+Some files worth noting:
+
+`README.md` is generated as a user guide to this application that was created for you. It's a great reference about what your app is capable of!
 
 
 Drill into the source folder and you'll see:
 
 
-`App.js` which is a sample React component called “App” that we get for free when creating a new app.  It is mostly html surrounded with some javascript to display the webpage.
+`App.js` which is a sample React component called 'App' that we get for free when creating a new app.  It is mostly html surrounded with some javascript to display the webpage.
 
 
 `App.css` which stores styling for the app.  It stores the details that make the black background at the top of the page, and the white background in the bottom part of the page, along with font colors, sizes, alignments, and more!
@@ -151,3 +154,18 @@ You can also try adding the following 4 Hello World snippets within the  into to
  The create-react-app section of this tutorial was based on [this link](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html). 
 Feel free to take a look if you want to learn more info about react!
  
+
+### Now onto the fun stuff!
+
+Are you ready to start cutomizing your website? Talk with your pair to think about an idea for a site that you can make. Keep in mind that you will have access to this code when you leave the class so you can pull it onto your own machine at home and completely personalize it!
+
+
+
+
+
+### What you'll need to do this at home!
+Since the operating system will make a difference, I suggest you look up these tools at home to install on your own machines
+
+1. [Homebrew](https://brew.sh/)
+      Follow the installation instructions
+-npm 
