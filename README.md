@@ -112,19 +112,25 @@ Or embed them within other tags, but they must still have matching end tags like
 
 You can also try adding the following 4 Hello World snippets within the  into to see how they all display on the page:<br>
 
-`<div>Hello World</div>`
-
 ``` <div><br>
-  Hello World<br>
+   Hello World<br>
+ </div> 
+```
+ 
+ ```<div><br>
+   Hello<br>
+   World<br>
+ </div><br>
+ ```
+ 
+ ```<div><br>
+ <br>
+   Hello World<br>
  </div>
-  ```
-
-
-
-
-
-
-
-
-
-
+ ```
+ Did you notice that in the webpage they all appear the same, even though they look different?
+ 
+ 
+ The create-react-app section of this tutorial was based on [this link](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html). 
+Feel free to take a look if you want to learn more info about react!
+ 
