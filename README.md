@@ -121,12 +121,13 @@ When it changes in the browser, you'll notice that the text within the `<code>` 
 Always be sure to always add a matching tag with a `/`, like: <br>
 `<p> some words here </p>`<br>
 Or embed them within other tags, but they must still have matching end tags like: <br>
-`<p> some words here`<br>
-&nbsp;&nbsp;`<code>`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;`this font looks computer-y`<br>
-&nbsp;&nbsp;`</code>`<br>
-`</p>`
-
+ ```
+<p> some words here
+  <code>
+    this font looks computer-y
+  </code>
+</p>
+ ```
 HTML tags are a huge part of web development. [W3 Schools](https://www.w3schools.com/TAgs/) has a great list of all the tags you can use to help bring the vision of your app to life!
 
 You can also try adding the following 4 Hello World snippets within the  into to see how they all display on the page:<br>
