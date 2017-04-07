@@ -22,7 +22,7 @@ The skills, tools, and resources you learn today will help you continue to maint
 ## Github
 According to [Github](https://guides.github.com/activities/hello-world/):
 
-`GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.`
+> GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. >
 
 ## React.js
 `React is a declarative, efficient, and flexible JavaScript library for building user interfaces`
