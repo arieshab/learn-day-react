@@ -114,24 +114,13 @@ You can also try adding the following 4 Hello World snippets within the  into to
 
 `<div>Hello World</div>`
 
-`<div>`<br>
-`  Hello World`<br>
-`</div>`
+```<div><br>
+  Hello World<br>
+ </div>```
 
-`<div>`<br>
-  `Hello`<br>
-  `World`<br>
-`</div>`<br>
 
-`<div>`<br>
-<br>
-  `Hello World`<br>
-`</div>`
 
-Did you notice that in the webpage they all appear the same, even though they look different?<br>
-<br>
-The create-react-app section of this tutorial was based on the link below. If you want to find more information on create-react-app, you can visit:
-https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
+
 
 
 
