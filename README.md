@@ -86,7 +86,7 @@ my-app/
     index.css
     index.js
     logo.svg
-    ```
+```
 
 Some files worth noting:
 
