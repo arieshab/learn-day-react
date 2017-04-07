@@ -167,15 +167,17 @@ Are you ready to start cutomizing your website? Talk with your pair to think abo
 
 ### What you'll need to do this at home!
 
-1. [Homebrew](https://brew.sh/)
+<b>1. [Homebrew](https://brew.sh/)</b>
 
-Follow the instructions for installation. It's important to install homebrew first because a lot of other libraries rely on it
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-2. [Node/Npm](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x)
+It's important to install homebrew first because a lot of other libraries rely on it
+
+<b>2. [Node/Npm](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x)</b>
 
 `brew install node`
 
-3. [create-react-app](https://github.com/facebookincubator/create-react-app/blob/master/README.md#getting-started)
+<b>3. [create-react-app](https://github.com/facebookincubator/create-react-app/blob/master/README.md#getting-started)</b>
 
 `npm install -g create-react-app`
 
