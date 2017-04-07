@@ -43,9 +43,12 @@ Open iTerm on your workstation and run:
 ### Creating an app
 
 To create a new app, use iTerm on your workstation to run the commands below:
-(You can choose to name your app my-app like below or substitute any name you like!)
+
 
 `create-react-app my-app`
+
+(You can choose to replace the name 'my-app' with whatever you like!)
+
 `cd my-app`
 
 ### Start and view your shiny new app
@@ -54,7 +57,8 @@ Then type in iTerm the following:
 
 `npm start`
 
-This will run the app in Chrome at: http://localhost:3000  If you don't npm start your app, you won't be able to view it at this url.
+This will run the app in Chrome at: http://localhost:3000  
+Note: if you try this at home you *must* do npm start, otherwise you won't be able to view it at this url.
 
 ### View the code 
 
