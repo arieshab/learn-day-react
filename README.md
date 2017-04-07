@@ -219,7 +219,7 @@ You'll need some kind of text editor to write your code. There are so many optio
 
 The simplest thing to do on a Mac is to type the `git` command into iTerm. Your system will prompt you to install Git onto your machine!
 
-<br>6. [npmjs](https://www.npmjs.com/browse/star)</b>
+<b>6. [npmjs](https://www.npmjs.com/browse/star)</b>
 
 If you want to add more to your webpage, node modules are created by people and open sourced and listed on npm's website:
 
