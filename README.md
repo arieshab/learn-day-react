@@ -20,7 +20,7 @@ Today you are going to learn how to set up your own customizable website using `
 The skills, tools, and resources you learn today will help you continue to maintain your website well after our journey is done!
 
 ## Github
-According to https://guides.github.com/activities/hello-world/:
+According to [Github](https://guides.github.com/activities/hello-world/):
 
 `GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.`
 
@@ -29,7 +29,7 @@ According to https://guides.github.com/activities/hello-world/:
 
 In other words, react makes your website look really pretty and respond very efficiently! React was created by Facebook and has a ton of great tutorials online if you want to get into the nitty-gritty.
 
-https://facebook.github.io/react/
+[React](https://facebook.github.io/react/)
 
 ## create-react-app
 create-react-app is a module that creates single-page React applications with no build configuration.  It's super simple!
@@ -82,11 +82,21 @@ my-app/<br>
     logo.svg<br>
 
 Some files worth noting:<br>
-`README.md` is generated as a user guide to this application that was created for you.<br>
-Drill into the source folder and you'll see:<br>
-`App.js` which is a sample React component called “App” that we get for free when creating a new app.  It is mostly html surrounded with some javascript to display the webpage.<br>
-`App.css` which stores styling for the app.  It stores the details that make the black background at the top of the page, and the white background in the bottom part of the page, along with font colors, sizes, alignments, and more!<br>
-`logo.svg` which is the react logo being displayed on the main page.  Look at it spin!<br>
+`README.md` is generated as a guide to this application that was created for you. You can edit it to explain your application to those who want to use it!
+
+
+Drill into the source folder and you'll see:
+
+
+`App.js` which is a sample React component called “App” that we get for free when creating a new app.  It is mostly html surrounded with some javascript to display the webpage.
+
+
+`App.css` which stores styling for the app.  It stores the details that make the black background at the top of the page, and the white background in the bottom part of the page, along with font colors, sizes, alignments, and more!
+
+
+`logo.svg` which is the react logo being displayed on the main page.  Look at it spin!
+
+
 
 You have a great app so far! Remember to add, commit and push your code to your github repository!
 
