@@ -112,18 +112,21 @@ Or embed them within other tags, but they must still have matching end tags like
 
 You can also try adding the following 4 Hello World snippets within the  into to see how they all display on the page:<br>
 
-``` <div><br>
+``` 
+<div><br>
    Hello World<br>
  </div> 
 ```
  
- ```<div><br>
+ ```
+ <div><br>
    Hello<br>
    World<br>
  </div><br>
  ```
  
- ```<div><br>
+ ```
+ <div><br>
  <br>
    Hello World<br>
  </div>
