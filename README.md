@@ -182,9 +182,11 @@ It's important to install homebrew first because a lot of other libraries rely o
 `npm install -g create-react-app`
 
 <b>4. Text Editor!</b>
+
 You'll need some kind of text editor to write your code. There are so many options out there so feel free to find one you like the most. Today we used [VS code](https://code.visualstudio.com/docs/setup/setup-overview) but you can also check out [Atom](https://github.com/atom/atom/releases/tag/v1.15.0), [Sublime](https://www.sublimetext.com/3)
 
 <b>5. [Github](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)</b>
+
 The simplest thing to do on a Mac is to type the `git` command into iTerm. Your system will prompt you to install Git onto your machine!
 
 
