@@ -167,6 +167,6 @@ Are you ready to start cutomizing your website? Talk with your pair to think abo
 
 ### What you'll need to do this at home!
 
-# 1. [Homebrew](https://brew.sh/)
+1. [Homebrew](https://brew.sh/)
 Follow the instructions for installation. It's important to install homebrew first because a lot of other libraries rely on it
 
