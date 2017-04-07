@@ -154,7 +154,7 @@ You can also try adding the following 4 Hello World snippets within the  into to
  Did you notice that in the webpage they all appear the same, even though they look different?
  
  
- The create-react-app section of this tutorial was based on [this link](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html). 
+The create-react-app section of this tutorial was based on [this link](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html). 
 Feel free to take a look if you want to learn more info about react!
  
 
@@ -162,7 +162,39 @@ Feel free to take a look if you want to learn more info about react!
 
 Are you ready to start cutomizing your website? Talk with your pair to think about an idea for a site that you can make. Keep in mind that you will have access to this code when you leave the class so you can pull it onto your own machine at home and completely personalize it!
 
+Before we get too far ahead of ourselves, let's commit our code to github. 
 
+Committing your code means that you're saving your work so you always have access to what you've done. And not just on your local system, it'll be available anywhere you go! It's good practice to commit often. <b>Very</b> often!
+
+In your my-app directory, run the following command:
+
+`git init`
+
+This willinitialize your git repository
+
+`git status`
+
+This will show you all the files you changed, they'll be listed in red.
+
+`git add .`
+
+This command will add all the files in your current directory to the git repository
+
+`git status`
+
+All the files that were previously red are now green! This is good! 
+
+>git commit -m "[remove the brackets and type a comment here]"
+
+Since we'll find ourselves committing a lot, we want to make comments about *what* we are committing. Leave the quotes, but reaplce "[remove the brackets and type a comment here]" with something like "Initial commit. setting up react app". Or you can leave an inspiring message to yourself. It's up to you, these are for you to interpret! Your git message is going to look something like this: 
+
+`git commit -m "Initial commit for my first react app" `
+
+And finally, we will push it!
+
+`git remote add origin [remote repository url]`
+
+`git remote push -u origin master`
 
 
 
