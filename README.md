@@ -127,6 +127,8 @@ Or embed them within other tags, but they must still have matching end tags like
 &nbsp;&nbsp;`</code>`<br>
 `</p>`
 
+HTML tags are a huge part of web development. [W3 Schools](https://www.w3schools.com/TAgs/) has a great list of all the tags you can use to help bring the vision of your app to life!
+
 You can also try adding the following 4 Hello World snippets within the  into to see how they all display on the page:<br>
 
 ``` 
@@ -165,13 +167,6 @@ Are you ready to start cutomizing your website? Talk with your pair to think abo
 
 ### What you'll need to do this at home!
 Since the operating system will make a difference, I suggest you look up these tools at home to install on your own machines
+<p>Homebrew</p>
 
-1. [Homebrew](https://brew.sh/)
 
-Follow the installation instructions. It's important that you install homebrew first! A lot of other libraries depend on it.
-      
-2. [node/npm](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x)
-
-`brew install node`
-
-Node comes with npm. Npm is a package manager that allows you to incorporate other javascript libraries into your code. It's kind of a big deal
