@@ -166,9 +166,7 @@ Are you ready to start cutomizing your website? Talk with your pair to think abo
 
 
 ### What you'll need to do this at home!
-Since the operating system will make a difference, I suggest you look up these tools at home to install on your own machines
-<ol>
-<li>Homebrew</li>
-<li>Node/Npm</li>
-<li>create-react-app</li>
-</ol>
+
+# 1. [Homebrew](https://brew.sh/)
+Follow the instructions for installation. It's important to install homebrew first because a lot of other libraries rely on it
+
